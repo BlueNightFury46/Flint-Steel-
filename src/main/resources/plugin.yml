@@ -1,5 +1,5 @@
 name: FlintAndSteelPlus
-version: '1.0-SNAPSHOT'
+version: '1.0a'
 main: dev.bluenightfury46.flinatandsteelplus.flintandsteel
 api-version: '1.21'
 authors: [ BlueNightFury46 ]
