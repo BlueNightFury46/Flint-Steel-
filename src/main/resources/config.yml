@@ -1,0 +1,6 @@
+flame-radius: 6
+cooldown: 0.5
+soul-flame: false
+give-fire-resistence: true
+fire-resistence-duration: 5
+
