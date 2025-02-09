@@ -1,7 +1,0 @@
-# Below is the flint and steel cooldown in seconds, accepts a decimal answer
-cooldown: 0.5
-soul-flame: false
-# Whether, or not to give the player fire resistence for a certain period of time after using the flint and steel
-give-fire-resistence: true
-# The duration of the fire resistence that gets applied if give-fire-resistence is true (in seconds, does not accept a decimal answer)
-fire-resistence-duration: 10
