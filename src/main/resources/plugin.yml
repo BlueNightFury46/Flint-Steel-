@@ -1,0 +1,7 @@
+name: flintandsteelplus
+version: '1.0b'
+main: dev.bluenightfury46.flintandsteelplus.flintandsteel
+api-version: '1.21'
+authors: [ BlueNightFury46 ]
+description: Adds a better flint and steel to the game
+website: bluenightfury46.dev
