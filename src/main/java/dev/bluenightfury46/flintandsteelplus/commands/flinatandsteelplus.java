@@ -34,7 +34,7 @@ public class  flinatandsteelplus implements Listener {
 
                         for (int z = (int) pos1.z(); z < (int) pos2.z(); z++) {
                             double ypos = loc.getWorld().getHighestBlockAt(x, z).getLocation().y();
-                            if ((ypos - e.getClickedBlock().getLocation().x()) <= 20) {
+                            if ((ypos - e.getClickedBlock().getLocation().x()) <= 3) {
                                 Location finalLoc = new Location(loc.getWorld(), x, ypos + 1, z);
                                 if (flintandsteel.useSoulFire) {
                                     new Location(loc.getWorld(), x, ypos, z).getBlock().setType(Material.SOUL_SAND);
